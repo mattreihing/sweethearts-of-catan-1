@@ -1,2 +1,2 @@
-# sweethearts-of-catan-1
-HTML only website
+# sweethearts-of-catan
+html-only website (first coding project)
